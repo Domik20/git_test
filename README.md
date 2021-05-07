@@ -1,0 +1,1 @@
+This is Domik20 first git project!
